@@ -76,7 +76,8 @@ N-gram Extraction
 
 ## 🔬 6. Detailed Step-by-Step Processing
 
-### **6.1 Lowercasing**
+
+**6.1 Lowercasing
 
 ```python
 data['review_lowercase'] = data['Review'].str.lower()
